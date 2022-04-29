@@ -1,0 +1,502 @@
+﻿
+
+Project Management in the Information Age
+
+GENERAL COURSE INFORMATION
+
+Faculty name/title:Lawrence Mantrone, Adjunct InstructorNYU email address:lam533@nyu.eduPhone:Phone: 516-825-5836 / Mobile: 516-238-8611Course title/number:Project Management in the Information Age (MASY1-GC 1250- 101)Semester/YearSpring 2021Credits as applicable:3Session:1Number of Classes:14Dates/Day(s):2/3/21 to 5/5/21, WednesdaysTime:06:20 PM to 8:55 PM EST/EDTMode of Delivery:Blended - In-person & OnlineLocation:Midtown, 11 W 42nd St, Room 506No Class Dates:N/AOffice Hours:1:00 pm – 3:00 pm EST/EDT Mondays through Fridays, by phone, Zoom or in-person by appointment. Appointments may also be arranged before or after class sessions, at any time via email, NYU Classes message or text message to the instructor’s mobile device. One-on-one meetings may also be conducted before or after class sessions based on the instructor’s
+availability.
+COURSE DESCRIPTION
+This course covers the fundamentals of project management and explores the methodologies and techniques for managing technological projects. Throughout this course, students learn to define a business problem, plan the delivery of a solution for that problem, and manage the quality completion of the project deliverables. The course prepares students to plan and manage organizational technology related projects by applying various project management techniques effectively.
+COURSE PREREQUISITE COURSE STRUCTURE/METHOD
+This course will consist of fourteen Blended - In-person & Online classes. Zoom is the remote instruction platform used at NYU. This course will provide a framework for understanding and applying the philosophy, methodologies, principles, practices, and knowledge of structured project management. It will focus on the application of this framework to initiate, plan, execute, and manage chartered projects, to address business problems and opportunities that an organization will face. Students will gain both a theoretical as well as a practical foundation on which to manage a project. In addition to in-person lectures, facilitated discussions, in‐class exercises, and case
+
+studies, students will also participate in a simulation project that will run concurrently throughout the semester. Resources, including reading briefs, tools, templates, models, and work plans will be provided on the NYU Classes course homepage; as will be assignments.
+Upon completion of this course, a student will be able to define a business problem, plan the delivery of a solution, execute that plan, and manage the completion of its deliverables. The content and subject matter presented in this course are aligned with the Project Management Institute (PMI) ‘A Guide to the Project Management Body of Knowledge’ (PMBOK Sixth Edition.)
+Each class meeting will focus on a discussion topic related to a knowledge area associated with structured project management. These discussions will be a combination of didactic as well as practical application, using a facilitated teaching and learning approach. This will be done within the context of ‘real‐world’ project initiatives.
+Students are expected to attend each lecture and participate in the discussions. Students will be randomly assigned to a group(s) during alternating class meetings to work on an in‐class group exercise related to the respective discussion topic. Time will be set aside, in‐class, for the teams to meet. The in‐class exercise(s) may relate to a problem or opportunity associated with a project that a member of the team is currently working on or was recently a part of. Each team will do a read‐ out of the results of their efforts at the end of the exercise. This will be followed by a facilitated discussion on the problem/issue which the team faced.
+In addition to the in‐class exercises, students will also participate in a team simulation project, which will run concurrently throughout the course. Project teams of between four to five (4‐5) members in size, will be established (through a random selection process) to work together on a project. This project initiative (topic) must be presented in the form of a proposal, at the outset of the project; this proposal will be reviewed for approval. The topic of the project must represent a problem or opportunity scenario, agreed to by the team.
+Each team will be responsible for developing a project proposal, a business case, a project charter, and a written report, including a master project plan, as deliverables for the assignment. In addition, each team will develop and deliver a team presentation, regarding the project business case and its plan.
+This course will immerse the student in unified project management, and provide the tools, techniques, and templates required for a successful project initiative. It will introduce the student to the roles, responsibilities, and management methodologies used by a project team and its manager to initiate, plan, execute, and manage a project. It is designed for a student to learn how to apply a systematic approach, working as a member of a team, to successfully deliver a solution to a problem or opportunity that an organization may be facing.
+
+COURSE LEARNING OUTCOMES
+At the conclusion of this course, students will be able to:
+ Determine the business need for a proposed technology project and its alignment to the organization’s mission and or business model using various analytic tools.
+ Develop a technology related project proposal, including a recommendation for a systems solution and the framework methodology for the planning and execution of a project plan.
+ Apply project management principles to create a technology related project plan including the product/service deliverables and the project plan artifacts.
+
+ Produce a functional specification to represent the features and functions of a project deliverable for alignment to a technical design specification.
+ Apply the Systems Development Lifecycle Model (SDLC) to technology related projects across the lifecycle phases including planning, analysis, design, implementation, and operations.
+ Prepare a test plan, using a comprehensive test design template, to validate and verify the usability of the planned systems solution.
+
+COMMUNICATION POLICY
+Questions or comments related to the course and its content voiced during in-class time will be addressed online. Questions or comments that arise outside of the classroom should be shared via email, using the NYU email messaging system to the instructors NYU email address, lam533@nyu.edu. Non-degree students do not have NYU email addresses. NYU Classes course- mail supports student privacy and FERPA guidelines. If there are questions related to a group project or assignment, then all members of the group must be included in the email. All questions communicated by email will be answered within 24 hours. In case of an emergency, the instructor may be contacted through his home phone number, 516-825-5836, or through his mobile number, 516-238-8611. Emergency text messages are permissible. Students should, however, clearly identify themselves in any text messages sent to the instructor.
+The instructor will maintain regular office hours as specified. Appointments may be made by students to speak with the instructor online (where feasible), by Zoom meeting or by phone. The instructor will make every effort to make himself available for consultation as needed throughout the course. Students are encouraged to reach out if they have any concerns and are required to contact the instructor in advance of any absences, lateness, or difficulties in completing assignments on a timely basis.
+Students have the opportunity to add their pronouns, as well as the pronunciation of their names, into Albert. Students can have this information displayed to faculty in Albert, NYU Classes, and other NYU systems. Students can also opt out of having their pronouns viewed by their instructors.
+https://www.nyu.edu/students/student-information-and-resources/registration-records-and- graduation/forms-policies-procedures/change-of-student-information/pronouns-and-name- pronunciation.html
+Students who join the course during add/drop are responsible for ensuring that they identify what assignments and preparatory work they have missed and complete and submit those per the syllabus.
+
+COURSE EXPECTATIONS
+
+Attendance
+Students are expected to be in class from 06:20 PM to 8:55 PM EST/EDT to arrive on time, and to attend all class sessions. If you are unable to attend a class session, please send an email message to the instructor, at your earliest convenience prior to the session. Students are expected to have read assigned chapters and/or sections from one or both of the textbooks prior to class meetings. In addition, discussion notes and associated ad‐hoc readings will be distributed prior to each class. Students are expected to review these materials before the class session. Students are expected to
+
+review resources placed in the ‘Resource’ folders on course home page in NYU Classes, arranged in a week-by-week order. These resources will include PowerPoint presentations, topical reading- briefs, templates, spreadsheets, diagrams, subsidiary plans, work plans, and other collateral documentation related to the appropriate discussion topic. Students are expected to refer to the online resources and links provided by the instructor. Students are expected to access assignment guidelines (as required) via the ‘Assignment’ link on the course home page. Students are expected to actively participate in the in‐class discussions and the group exercises.
+Students are expected to attend all classes. Excused absences are granted in cases of documented serious illness, family emergency, religious observance, or civic obligation. In the case of religious observance or civic obligation, this should be reported in advance. Unexcused absences from sessions may have a negative impact on a student’s final grade. Students are responsible for assignments given during any absence.
+Each unexcused absence may result in a student’s grade being lowered by a fraction of a grade (+/-) due to the inability to participate in the discussion. A student who has three unexcused absences may earn a Fail grade.
+University Calendar Policy on Religious Holidays: https://www.nyu.edu/about/policies- guidelines-compliance/policies-and-guidelines/university-calendar-policy-on-religious- holidays.html
+
+Classroom Expectations
+As graduate students, you are expected to conduct yourselves in a professional manner and engage and collaborate with your classmates in the Zoom meeting room. Here are our guiding principles:
+1. Dress as if you are in the Classroom.
+2. Keep your microphone muted unless asking a question or engaging in discussion.
+3. Check your video and audio when entering your class session.
+4. Think background, minimize distractions around you.
+5. Look into the camera instead of looking at the screen.
+6. Type quietly, mute if necessary.
+7. Don’t eat during a Zoom class session and refrain from engaging in any activity such as
+smoking, consuming alcohol, etc. that you would not engage in if the class was in person.
+
+SPS classrooms are diverse and include students who range in age, culture, learning styles, and levels of professional experience. To maintain an inclusive environment that ensures all students can equally participate with and learn from each other, as well as receive feedback and instruction from faculty during group discussions in the classroom, all course-based discussions and group projects should occur in a language that is shared among all participants.
+
+Assignments
+In‐Class Exercises: There will be nine (9) in‐class group exercises during the semester. Two (2) of the exercises will require a follow-up written essay to be submitted as an individual written assignment by each student. Each paper should include an executive summary of project management process, tool, model and/or core content area that the exercise was about. The discussion within the paper must focus on the relevance of the topic to the management of the
+
+project. The length of each paper must not exceed two (2) pages (Plus a cover sheet.) A template will be provided for use in developing the paper(s).
+
+Individual Assignments	Due Date
+• Conflict Resolution Self-Assessment	03/03/21
+• Risk Analysis Individual Assignment	03/31/21
+
+In‐Class Exams: A midterm exam (take-home, due: 03/19/21) and a final exam (take-home, due 05/05/21) are required. These exams will cover the in‐class discussions, assigned reading materials, and resources on the course homepage. The final exam will not be cumulative.
+Team Simulation Project: Students will be grouped into project teams of four to five members in size. Each team will be responsible for developing a ‘Project Proposal,’ which when approved must be supported with a ‘Business Case’ to advance its approval. Once approved, each team will develop a ‘Project Charter,’ to authorize the project and then develop a report and project management plan for the project. These, along with an oral Team Presentation will be presented on 04/28/21. For each team assignment, students will be expected to provide a breakdown of the responsibilities and contributions of each team member to help ensure an equal distribution of effort across the team.
+Written Assignments: Each written assignment must be word processed, have a 12pt font size, be double spaced and submitted on the scheduled due date, and delivered as an MS Word file (not as a PDF.)
+Reports and/or papers that are submitted after the due date will be automatically reduced in score by twenty percent (20%) before they are read.
+All written reports must be submitted with a cover sheet (Please see the following template).
+Failure to include a cover sheet will result in an automatic reduction in points. The cover sheet must include the following information:
+Student Name:
+Course Name:
+Course ID Number:
+The Assignment Name:
+The Date:
+EXAMPLE:
+Jane Doe
+Project Management in the Information Age
+MASY1-GC1250.101
+The Team Contract xx/xx/xx
+File Naming Convention: The following naming convention should be used when submitting, Individual, Group, or Team assignments:
+Individual Deliverable Example: Your Name Team Contract SP21
+In‐Class Group Example: Your Group Team Contract SP21
+Team Deliverable Example: Your Team Name Project Charter SP21
+
+Technology Policy
+ All class sessions require use of Zoom. Establishing an environment of mutual respect and exchange in the classroom requires a commitment to presence in discussions and full attention to the course materials presented in class. While the use of laptops and tablets to access slide presentations and other documentation used in the course will be acceptable, students are expected to only use their devices for that purpose. Cellphones may be used at times in the classroom for instructional purposes at the instructors’ discretion but may not be accessed or used for any other purpose. Inappropriate use of technology by students will affect the grade for participation awarded for the session in which it occurs.
+
+Class Participation
+Participation means contributing to class discussion in a meaningful way versus simply speaking in class or offering a random comment in an online forum; it also means actively listening and building on the questions and discussion points of your classmates. As graduate students, you are expected to conduct yourselves in a professional manner and engage and collaborate with your classmates.
+
+REQUIRED AND RECOMMENDED MATERIAL:
+
+Required Reading:
+
+Successful Project Management
+7th Edition
+Jack Gido, James P. Clements, and Rose Baker Cengage Learning
+ISBN-13: 978-1-337-09547-1
+
+A Guide to the Project Management Book of Knowledge (PMBOK Guide) Sixth Edition
+6th Edition
+Project Management Institute
+ISBN 13: 9781628251845
+
+
+Recommended Reading:
+
+Effective Project Management: Traditional, Agile, Extreme, Hybrid
+8h Edition Robert K. Wysocki Wiley
+ISBN: 978-1-119-56280-1
+
+Supporting Materials
+1. The course homepage ‘NYU Classes’: ‘Resources” and ‘Assignments’
+2. Microsoft Imagine
+3. Selected links to online sites, including YouTube videos as appropriate
+
+
+Microsoft Imagine Access
+Microsoft Project 2019 (for a Windows Operating System only)
+
+ASSESSMENT STRATEGY:
+ Complete assigned readings prior to each class
+ Actively participate in each in‐class discussion
+ Actively participate in each in‐class group/team exercise
+ Complete two (2) executive summaries based on the in‐class exercises
+ Complete a midterm exam
+ Complete a final exam (not cumulative)
+ Participate in the ‘Team Simulation Project’
+o Submit a (Team) ‘Team Contract’	02/24/21
+o Submit a (Team) ‘Project Proposal	02/28/21
+o Submit a (Team) ‘Project Charter'	03/10/21
+o Submit a (Team) ‘Requirements Document’	03/24/21
+o Deliver a (Team) ‘Business Case’ and ‘Written Report’	04/14/21
+o Deliver a (Team) ‘Team Presentation’	04/28/21
+Course Evaluation:
+The final grade for the course will be based on in‐class participation, individual assignments, in‐class exams, and the ‘PPM Team Project.’ To achieve a letter grade of ‘A’ you must demonstrate a high level of commitment to the course content as evidenced by in‐class participation, scoring very well on the mid‐ term and the final exams, and completing each assignment (individual and team) on‐time and within the rigors of the assignment guidelines (requirements.) Points are earned for all the graded assignments as well as participation. You can aggregate a total of 100 points. These points are distributed across a grading scale to determine your final letter grade. The grading scale is as follows:
+
+
+Participation10Written reports based on in-class exercise (2 x 10 points @) (Individual)20Mid‐Term Exam20Final Exam20The PPM Team Project:Team Project: Proposal (Team Assessment)5Team Project: Project Charter (Team Assessment)5Team Project: Requirements Document (Team Assessment)5Team Project: Business Case and Written Report (Individual 5 and Team 5 Assessments)10Team Project: Presentation (Individual Contribution)5Total100%
+NYUSPS Policies:
+Center for Student Accessibility
+If you are a student who is requesting accommodations, please contact New York University’s Moses Center for Students Accessibility (CSA) at 212-998-4980 or mosescsa@nyu.edu. You must be registered with CSA to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csa. The Moses Center is located at 726 Broadway on the 3rd floor.
+
+Health and Wellness
+To access the University's extensive health and mental health resources, contact the NYU Wellness Exchange. You can call its private hotline (212-443-9999), available 24 hours a day, seven days a week, to reach out to a professional who can help to address day-to-day challenges as well as other health-related concerns.
+
+Academic Integrity and Plagiarism Policy
+All students are expected to be honest and ethical in all academic work. This trust is shared among all members of the University community and is a core principle of American higher education. Any breaches of this trust will be taken seriously. A hallmark of the educated student and good scholarship is the ability to acknowledge information derived from others. Students are expected to be scrupulous in crediting those sources that have contributed to the development of their ideas.
+Plagiarism involves borrowing or using information from other sources without proper and full credit. Students are expected to demonstrate how what they have learned incorporates an understanding of the research and expertise of scholars and other appropriate experts; and thus recognizing others' published work or teachings—whether that of authors, lecturers, or one's peers—is a required practice in all academic projects.
+Students are subject to disciplinary actions for the following offenses which include but are not limited to:
+• Cheating
+• Plagiarism
+• Forgery or unauthorized use of documents
+• False form of identification
+
+Use the link below to read more about Academic Integrity Policies at the NYU School of Professional Studies. Academic Policies for NYU SPS Students
+
+TurnItIn
+TurnItIn is a plagiarism detection software used to verify academic originality. It is available only to degree courses and students.
+● Some assignments in this course may be checked for plagiarism using TurnItIn
+
+NYU School of Professional Studies Graduate Grading Scale
+Grading for graduate programs is by letter grade: A, A-, B+, B, B-, C+, C, C-, and F. For NYUSPS’s complete graduate grading policies, including criteria for a grade of incomplete, taking a course on a pass/fail basis, and withdrawing from a course, see: https://www.sps.nyu.edu/homepage/student-experience/policies-and- procedures.html#Graduate1
+
+Letter%GPADescriptionsDefinitions
+A
+95-100
+4.0
+ExceptionalDemonstrates exceptional mastery of all learning outcomes of the course and thorough and complete understanding of all concepts.
+A-
+90-94
+3.7
+ExcellentDemonstrates highly competent mastery of all learning outcomes of the course and strong understanding of all concepts.
+B+
+87-89
+3.3
+Very Good; exceeds course standards
+Demonstrates mastery of all learning outcomes of the course and understanding of core concepts.
+B
+83-86
+3.0Good; meets course standardsDemonstrates mastery of some learning outcomes; understanding of some core concepts could be improved.
+B-
+80-82
+2.7Somewhat Satisfactory; meets some course standards and requires improvement
+Demonstrates basic understanding of some learning outcomes; improved understanding of all core concepts is needed.
+C+
+77-79
+2.3Less than Satisfactory; requires significant improvementDemonstrates partial understanding of all learning outcomes and core concepts; requires significant improvement.
+C
+73-76
+2.0Unsatisfactory; requires substantial improvementDemonstrates partial understanding of some learning outcomes and core concepts; requires substantial improvement.
+C-
+70-72
+1.7Unsatisfactory; requires extensive improvement
+Demonstrates poor understanding of all learning outcomes and core concepts; requires extensive improvement.
+F
+Below 70
+0.0
+FailDemonstrates minimal to no understanding of all key learning outcomes and core concepts; work is unworthy of course credit towards the degree.
+
+
+COURSE OUTLINE:
+Please note: all assignments should be submitted via the NYU Classes Assignments platform. In case of an emergency, assignments may be emailed directly to the instructor.
+
+Course Start Date: Wednesday, February 3, 2021
+Course End Date: Wednesday, May 5, 2021 Complete assigned readings prior to each class.
+
+Spring 2021 Schedule:
+
+
+Session 1, 2/3/21, Introduction and Overview
+The session 1 discussion will focus on introductions and the project framework
+Theme: The Project Life Cycle, Knowledge Domains, and Constraints
+
+
+Learning Objectives:
+• Explain what a ‘project’ is
+• Outline the essential components of the project management framework
+• Examine the 'Project Life Cycle'
+• Discuss the significance of the key knowledge (practice) domains (ten in total) associated with the structured project management approach
+• Explain the meaning of project constraints
+• Summarize the three major components of structured project management
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 1, PMBOK Guide Chapters 1 – 3
+Videos: Watch videos provided in the Session 1 resource folder
+
+Exercises: Icebreaker: Project Examples
+
+Session 2, 2/10/21, Project Scope and the Business Case
+The session 2 discussion will focus on the business need and who will be impacted
+The theme: Initiation, Goals, and Objectives
+
+
+Learning Objectives
+• Define the meaning of Project Scope and Scope Management
+• Identify the five Project Components that define Scope: A Statement of Purpose, Requirements, Specifications, Deliverables, and Measurable Objectives
+• Discuss the characteristics of the four Factors of Scope: In Scope, Out of Scope, Scope Creep, And Integrated Change Management
+• Compare requirements information gathering techniques
+• Characterize the differences between requirements and specifications
+
+• Summarize the concept of Requirements Traceability
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 4, PMBOK Chapter 5
+Videos: Watch videos provided in the Session 2 resource folder
+
+Exercises: WBS Exercise – Company Party
+
+ Distribute the guidelines for the ‘Team Project’ Announce the Team(s) for the Team Project’
+
+Session 3, 2/17/21, Project Team Management
+The session 3 discussion will focus on the formation of the project team
+The theme: The Stages of Team Development
+
+
+Learning Objectives
+• Characterize the project team as a ‘Unit’
+• Compare the difference between a workgroup and team
+• Describe the stages of team development
+• Demonstrate the use of a ‘RACI’ matrix
+• Discuss and explain the different methodologies for decision-making, including the decision- making factors
+
+Assignments
+
+
+Exercises:
+ Develop a ‘Team Contract’ (Team)
+ Assign the ‘Conflict Resolution Self-Assessment’ Exercise (Individual)
+
+
+
+Session 4, 2/24/21, Project Stakeholder Engagement
+The session 4 discussion will focus on individuals and entities who have a ‘stake’ in the project
+The theme: Priorities
+
+
+Learning Objectives
+• Explain the project stakeholder management process
+• Define the project stakeholder categories
+• Identify and describe the four project stakeholder types
+• Demonstrate the balance across the project stakeholder behavioral types
+
+Assignments Reading:
+
+Reading: PMBOK Chapter 13
+Videos: Watch videos provided in the Session 4 resource folder
+
+Exercises: Stakeholder Analysis – COVID-19 Planning
+
+Submit the ‘Team Contract’ for ‘your’ Project team
+Submit the Team(s) Project Proposal for the Team Project (2/28/21) Stakeholder Analysis Exercise
+
+
+
+Session 5, 3/3/21, Scheduling Methodologies: The Workplan
+The session 5 discussion will focus on the Work Breakdown Structure (WBS) and the workplan
+The theme: Scheduling Tools and Methodologies
+
+
+Learning Objectives:
+• Discuss the 'decomposition' process associated with breaking-down the scope of a projected into its component work-packages and their associated activities
+• Navigate the features and functionality of MS Project 2016
+• Prepare a work breakdown structure for an assigned case study
+• Demonstrate how MS Project can be used to develop a project schedule
+• Describe the attributes of tasks (activities) in a workplan
+• Develop a basic project workplan using with task relationships using MS Project 2016
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 5, PMBOK Chapter 6
+Videos: Watch videos provided in the Session 5 resource folder
+
+
+Exercises: Company Party Scheduling
+
+ Distribute the guidelines and the ‘Requirements Document’ template for the ‘Team Project’ Submit the Conflict Resolution Self-Assessment Individual Assignment
+
+
+Session 6, 3/10/21, The Financial Plan
+The session 6 discussion will focus on the value proposition and alignment
+The theme: Budget Preparation and Variance Tracking
+
+
+Learning Objectives
+• Discuss the process associated with determining the anticipated expenses for project
+• Describe the methodology for developing a preliminary project budget
+• Describe the methodology for developing a detailed project budget
+
+• Explain a project budgets cost and data-flow process
+• Illustrate the project cost management matrix
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 7, PMBOK Chapter 7
+Videos: Watch videos provided in the Session 6 resource folder
+
+
+Exercises:
+The Preliminary Budget
+ Submit the Team ‘Project Charter” for the ‘Team Project’
+
+
+
+
+Session 7, 3/17/21, Project Risk Management
+The session 7 discussion will focus on risks that become issues
+The theme: Risk Mitigation and Agreements
+
+
+Learning Objectives
+• Discuss the importance of risk management to project management
+• Describe the risk management processes
+• Distinguish the difference between positive risk and negative risk
+• Demonstrate the use of the risk probability and impact matrix
+
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 8, PMBOK Chapter 11
+Videos: Watch videos provided in the Session 7 resource folder
+
+
+Exercises: The Risk Management Exercise
+
+Take-Home Midterm Examination Due on 3/19/21
+
+
+
+Session 8, 3/24/21, Project Procurement Management
+The session 8 discussion will focus on vendor and supplier relations
+The theme: Partnership agreements
+
+
+Learning Objectives
+• Define project procurement management
+• Develop a ‘Statement-of-Work’
+• Summarize the tools and techniques for project contract administration
+
+• Illustrate the procurement management process
+
+Assignments Reading:
+
+Reading: Gido, Clements, and Baker Text: Chapter 3, PMBOK Chapter 12
+Videos: Watch videos provided in the Session 8 resource folder
+
+
+Exercises: Contract Types Exercise
+ Submit the Team(s) Requirements Document for the ‘Team Project’
+ Distribute the guidelines for the ‘Business Case’ for the ‘Team Project’
+
+
+
+
+Session 9, 3/31/21, Project Quality Management
+The session 9 discussion will focus on the quality planning process and user expectations
+The theme: Building Quality In!
+
+
+Learning Objectives
+• Define the meaning of project quality management and discuss what is essential to a successful project
+• Describe the quality management process, including: Quality Planning (QP,) Quality Management (QM) and Quality Control (QC.)
+• Summarize the quality process improvement initiative
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 4, PMBOK Chapter 8
+Videos: Watch videos provided in the Session 9 resource folder
+
+
+Exercises:
+ Submit the ‘Risk Mitigation’ Individual Report
+ Distribute the guidelines for the ‘Team Presentation’ for the ‘Team Project’
+
+
+Session 10, 4/7/21, Project Communications Management The session 10 discussion will focus on the ‘strata’ of the story The theme: A Communications Model
+
+Learning Objectives
+• Describe the importance of the project communication management knowledge domain
+• Demonstrate the flow of the communications model
+• Prepare the communications plan grid
+• Illustrate communication methods
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 12, PMBOK Chapter 10
+Videos: Watch videos provided in the Session 10 resource folder
+
+
+Exercises:
+
+Session 11, 4/14/21, Project Integration Management
+The session 11 discussion will focus on the alignment of the project framework components
+The theme: Integrated Change Management
+
+
+Learning Objectives
+• Identify and define the seven elements of project integration management
+• Develop a ‘Project Charter’
+• Discuss the importance of change management and integrated change control
+• Characterize the ‘paradoxes’ of project management
+
+Assignments
+
+Reading: PMBOK Chapter 4
+Videos: Watch videos provided in the Session 11 resource folder
+
+
+Submit the ‘Business Case’ and ‘Written Report’
+
+
+
+Session 12, 4/21/21, Agile Project Management and Scrum
+The session 12 discussion will focus on agile project management practices with an emphasis on the Scrum framework
+The theme: Responding to Change
+
+
+Learning Objectives
+• Describe the Agile Manifesto and associated principles
+• Define the roles and practices of the Scrum framework
+• Discuss how Scrum implements the philosophy and principles behind the Agile Manifesto
+
+
+Assignments
+Reading: The Scrum Guide
+Videos: Watch videos provided in the Session 12 resource folder
+
+
+Exercises:
+Driving and Restraining Forces Affecting Agile Adoption
+
+
+Session 13, 4/28/21. Team Presentations
+Exercises:
+ Deliver the ‘Team Presentation’
+
+
+
+Session 14, 5/5/21, Project Closure and Outcome Assessment
+The session 14 discussion will focus on metrics, measurement, and outcome assessment
+The theme: Lessons Learned
+
+
+Learning Objectives
+• Define the project ‘Closure’ process group (phase) of the project life cycle
+• Discuss the project dimensions: people, processes, technology, and solution
+• Illustrate project management best practices
+• Explain the meaning of ‘Lessons Learned’
+
+Assignments
+Reading: Gido, Clements, and Baker Text: Chapter 9
+
+Final Exam (Modules 7-13) Due 5/5/21
+
+
+
+
+At the discretion of the instructor, the syllabus may be modified to better meet the needs of the students and to achieve the learning outcomes established in the syllabus.
+
+
